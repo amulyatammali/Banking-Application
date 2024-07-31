@@ -1,5 +1,5 @@
 # Banking-Application
-This project is a simple console-based banking application implemented in Python. It provides functionalities for creating new user accounts, logging into existing accounts, and performing basic banking operations such as depositing and withdrawing funds and checking balances. The application uses SQLite for database management and pandas for data handling.
+This project is a simple console-based banking application implemented in Python. It provides functionalities for creating new user accounts, logging into existing accounts, and performing basic banking operations such as depositing and withdrawing funds and checking balances. The application uses SQLite for database management for data handling.
 # Features 
  1) Create New Account: Users can create a new account by providing their personal details such as first name, last name, Aadhaar number, date of birth, and address. Each new account is assigned a unique account number.
  2) Login Account: Users can log in to their accounts using their account number and date of birth as a password.
